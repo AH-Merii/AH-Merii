@@ -1,7 +1,7 @@
 ### Hi, I'm AbdulHamid Merii 👋
 
 - 🔭 I’m currently working on protein function prediction.
-- 🌱 I’m currently learning about graph neural networks.
+- 🌱 I’m currently experimenting with graph neural networks.
 - ⚡ Fun fact: I like typing on very small ergo keyboards. 
 
 
