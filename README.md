@@ -27,3 +27,5 @@
   <a href="https://pytorch-geometric.readthedocs.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.png" alt="pytorch-geometric" width="40" height="40"/> </a> 
 
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ah-merii)](https://github.com/anuraghazra/github-readme-stats)
