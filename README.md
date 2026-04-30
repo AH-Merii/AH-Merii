@@ -1,4 +1,4 @@
-### Hi, I'm AbdulHamid Merii 👋
+### Hi, I'm Abed Merii 👋
 
 - 🔭 I’m currently working on protein function prediction.
 - 🌱 I’m currently experimenting with graph neural networks.
@@ -6,9 +6,6 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AH-Merii&label=Profile%20views&color=0e75b6&style=flat" alt="AH-Merii" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AH-Merii&column=-1" alt="AH-Merii" /></a> </p>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
